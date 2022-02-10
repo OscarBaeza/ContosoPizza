@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tUR0T0btbndrV2IIFwteKNHXx9yC1w/+QGmETo04Hh4WrFLf/l4SyTDseKDQ0ojqtiNRUobbMZpz8pAmbqXlYA==",
+  "dgSpecHash": "G2PTy+JeZ3Xny/aoHSs91uqomTSD7Dd06XQtvtGxXtEmRRpui7Nse61Y63CNTWd+5rC1gwzT2Q179VYTmt60iw==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\ContosoPizza\\ContosoPizza.csproj",
+  "projectFilePath": "D:\\Repos\\MiGithub\\ContosoPizza\\ContosoPizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oscar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\oscar\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.1\\microsoft.data.sqlite.core.6.0.1.nupkg.sha512",

@@ -1331,11 +1331,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\ContosoPizza\\ContosoPizza.csproj",
+      "projectUniqueName": "D:\\Repos\\MiGithub\\ContosoPizza\\ContosoPizza.csproj",
       "projectName": "ContosoPizza",
-      "projectPath": "D:\\Repos\\ContosoPizza\\ContosoPizza.csproj",
+      "projectPath": "D:\\Repos\\MiGithub\\ContosoPizza\\ContosoPizza.csproj",
       "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\ContosoPizza\\obj\\",
+      "outputPath": "D:\\Repos\\MiGithub\\ContosoPizza\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config"
